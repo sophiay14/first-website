@@ -1,5 +1,6 @@
 ---
-title: "Sophia Yao"
+title: "About"
 ---
-
-About this site
+## About Me
+My name is **Sophia Yao** and I am a student at *W. H. Morden*.
+[Kane's Free Data Science Bootcamp](https://sophiay14.quarto.pub/a-new-website/)
