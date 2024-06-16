@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: a06f541d-1614-43ef-9f70-e50b77c34a13
+      url: 'https://sophiay14.quarto.pub/a-new-website'
